@@ -1,7 +1,10 @@
 <div align="center">
 
 <a href="https://openvcenter.com">
-  <img src="https://raw.githubusercontent.com/openvcenter/Open-vCenter/main/.github/ovc-logo.svg" alt="Open vCenter" width="420" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/openvcenter/Open-vCenter/main/.github/ovc-logo-dark.svg" />
+    <img src="https://raw.githubusercontent.com/openvcenter/Open-vCenter/main/.github/ovc-logo.svg" alt="Open vCenter" width="420" />
+  </picture>
 </a>
 
 **An open-source virtualization center for managing your VMs from a single web console.**<br>
